@@ -9,6 +9,10 @@ fun main() {
 //    printAgeIfPerson(123)
 
     val name = "이수호"
+    println(name)
+
+    val stringNum = "123" + 1 + " " + 123
+    println(stringNum)
 
     val str = """
         안녕하세요.
