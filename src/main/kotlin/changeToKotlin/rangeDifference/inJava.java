@@ -1,4 +1,4 @@
-package rangeDifference;
+package changeToKotlin.rangeDifference;
 
 public class inJava {
     public static void main(String[] args) {

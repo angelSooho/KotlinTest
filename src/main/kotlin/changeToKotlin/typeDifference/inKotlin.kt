@@ -1,4 +1,4 @@
-package org.example.typeDifference
+package org.example.changeToKotlin.typeDifference
 
 import domain.Person
 

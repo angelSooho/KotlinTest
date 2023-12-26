@@ -1,4 +1,4 @@
-package org.example.exceptionDifference
+package org.example.changeToKotlin.exceptionDifference
 
 import java.io.BufferedReader
 import java.io.File

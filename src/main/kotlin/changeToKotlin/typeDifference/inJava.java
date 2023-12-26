@@ -1,4 +1,4 @@
-package typeDifference;
+package changeToKotlin.typeDifference;
 
 import domain.Person;
 

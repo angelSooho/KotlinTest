@@ -1,4 +1,4 @@
-package org.example.nullDifference
+package org.example.changeToKotlin.nullDifference
 
 import domain.Person
 

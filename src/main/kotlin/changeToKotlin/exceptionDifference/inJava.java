@@ -1,4 +1,4 @@
-package exceptionDifference;
+package changeToKotlin.exceptionDifference;
 
 import org.jetbrains.annotations.NotNull;
 

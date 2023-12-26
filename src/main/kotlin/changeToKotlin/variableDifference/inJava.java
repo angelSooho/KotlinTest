@@ -1,4 +1,4 @@
-package variableDifference;
+package changeToKotlin.variableDifference;
 
 public class inJava {
 

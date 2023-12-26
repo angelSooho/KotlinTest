@@ -1,4 +1,4 @@
-package org.example.variableDifference
+package org.example.changeToKotlin.variableDifference
 
 fun main() {
 //    var number1 = 10L

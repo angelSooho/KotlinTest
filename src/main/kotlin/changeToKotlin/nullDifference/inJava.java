@@ -1,4 +1,4 @@
-package nullDifference;
+package changeToKotlin.nullDifference;
 
 public class inJava {
 
