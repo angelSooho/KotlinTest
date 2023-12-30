@@ -49,3 +49,7 @@ private fun filterFruits(fruits: List<Fruit>, filter: (Fruit) -> Boolean): List<
     }
     return filteredFruits
 }
+
+private fun filterFruites2(fruits: List<Fruit>, filter: (Fruit) -> Boolean): List<Fruit> {
+    return fruits.filter(filter)
+}
