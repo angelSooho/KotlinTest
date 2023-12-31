@@ -26,7 +26,7 @@ class KotlinPerson(
         // value는 프로퍼티에 대입되는 값이다.
         // field는 프로퍼티의 값을 저장하는 필드를 의미한다.
         // 역시나 실무에서는 거의 사용하지 않는다.
-        // setter 자체를 자주 사용하지 않는다.
+        // setter 자체를 자주 사용하지 않는다.ㅎ
         set(value) {
             field = value.uppercase()
         }
